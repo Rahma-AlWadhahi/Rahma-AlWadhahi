@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Rahma 👋
 
 <!--
 **Rahma-AlWadhahi/Rahma-AlWadhahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Swift**
+- 🌱 I’m currently learning **React Native**
+- 👯 I’m looking to collaborate on **Open Source Projects**
