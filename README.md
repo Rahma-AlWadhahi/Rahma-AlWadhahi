@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 - 🔭 I’m currently working on **Swift**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahma-AlWadhahi&theme=nightowl" /> 
