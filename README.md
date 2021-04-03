@@ -1,3 +1,4 @@
+
 ### Hi there, I'm Rahma 👋
 
 <!--
@@ -19,10 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Swift**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/rahma-alwadhahi" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
-  
+- 📫 How to reach me: [Twitter](https://twitter.com/Rahma_AlWadhahi) , [LinkedIn](https://www.linkedin.com/in/rahma-alwadhahi)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahma-AlWadhahi&theme=nightowl" /> 
 
