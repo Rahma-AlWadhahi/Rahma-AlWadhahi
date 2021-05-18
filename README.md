@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io" target="_blank"> <img src="https://github.com/cypress-io/cypress-icons/blob/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round.svg" alt="cypress" width="47" height="47"/> </a>
   <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
   </p></td>
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahma-AlWadhahi&theme=nightowl" /> </td>
